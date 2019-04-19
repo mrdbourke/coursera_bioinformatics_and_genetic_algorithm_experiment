@@ -8,7 +8,7 @@ I try and complete the challenges on my own before looking something up. Most of
 
 The genetic algorithm experiment was adding a little fun to the small project I did using what I’d been learning in the Specialization to try and find out more about the ATOH1 gene. From my limited research, I found the gene may play a role in hair cell development in the ears. Why hair cells? Hair cells help to transfer sound waves from the cochlea to the brain in the form of electric signals. A lack of hair cells in the ear can lead to hearing loss.
 
-Where did the hearing loss idea come from?
+## Where did the hearing loss idea come from?
 
 The same day I started the Specialization, I was going to event for my best friend’s son. My friend is Dave and his son is Wylder. Wylder was born deaf. The event I went to was the first day he would have his Cochlear implants turned on. I later found out these implants attempt to mimic the role of hair cells in the ear.
 
@@ -26,4 +26,4 @@ Keep learning.
 
 PS there’s a video version of the notebook which sheds a little more light on the story above on YouTube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5yF1KvAORaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Manipulating DNA with code on YouTube](https://img.youtube.com/vi/5yF1KvAORaU/0.jpg)](https://youtu.be/5yF1KvAORaU "Using code to manipulate DNA on YouTube by Daniel Bourke")
