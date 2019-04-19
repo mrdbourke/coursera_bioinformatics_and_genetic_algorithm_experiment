@@ -26,4 +26,4 @@ Keep learning.
 
 PS there’s a video version of the notebook which sheds a little more light on the story above on YouTube.
 
-https://youtu.be/5yF1KvAORaU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5yF1KvAORaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
