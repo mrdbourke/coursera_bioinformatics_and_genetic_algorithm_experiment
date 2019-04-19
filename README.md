@@ -24,6 +24,6 @@ I might add more code to this as I move further through the Specialization.
 
 Keep learning.
 
-PS there’s a video version of the notebook which sheds a little more light on the story above on YouTube.
+PS there’s a [video version of the notebook](https://youtu.be/5yF1KvAORaU) which sheds a little more light on the story above on YouTube.
 
 [![Manipulating DNA with code on YouTube](https://img.youtube.com/vi/5yF1KvAORaU/0.jpg)](https://youtu.be/5yF1KvAORaU "Using code to manipulate DNA on YouTube by Daniel Bourke")
